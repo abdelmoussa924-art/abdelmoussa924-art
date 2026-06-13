@@ -1,7 +1,6 @@
-# Hello everyone 👋, My name is Abdel MOUSSA
+# Hello everyone 👋, i'm Abdel
 
-I'm a Quantitative Finance engineering student at ECE Paris, aspiring **Quant Analyst**, focused on market finance, risk modeling, and systematic trading.
-My goal is simple: learn how markets behave, then turn that understanding into robust, data-driven risk and trading models.
+I am a Quantitative Finance engineering student at ECE Paris, with the ambition to become a quant analyst. My focus lies in market finance, risk modeling, and systematic trading. My objective is straightforward: first, deeply understand how markets behave; then, translate that understanding into robust, data‑driven models for risk management and systematic trading.
 
 ## What I'm currently working on
 
